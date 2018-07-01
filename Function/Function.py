@@ -32,3 +32,5 @@
 #1.5.20
 #[x + y for (x, y) in zip([10, 25, 40], [1, 15, 20])]
 
+#1.5.23
+#{ k:v for (k,v) in zip(list(range(100)), [ x*x for x in list(range(100))])}
