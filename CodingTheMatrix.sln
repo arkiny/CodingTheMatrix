@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CodingTheMatrix", "CodingTheMatrix\CodingTheMatrix.pyproj", "{3A8D5B4F-45D0-4EAC-AADC-F8B244B94F7E}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Function", "Function\Function.pyproj", "{0EB47743-4CF9-4A3D-9060-D51E4A2A4C40}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,8 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{3A8D5B4F-45D0-4EAC-AADC-F8B244B94F7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{3A8D5B4F-45D0-4EAC-AADC-F8B244B94F7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EB47743-4CF9-4A3D-9060-D51E4A2A4C40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EB47743-4CF9-4A3D-9060-D51E4A2A4C40}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
